@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NZWalks.API", "NZWalks.API\NZWalks.API.csproj", "{F9BB943A-091B-495C-972E-01E89A322710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NZWalks.Tests", "NZWalks.Tests\NZWalks.Tests.csproj", "{1A273078-DE53-4D28-B8F2-A32A5A916841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BB943A-091B-495C-972E-01E89A322710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BB943A-091B-495C-972E-01E89A322710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BB943A-091B-495C-972E-01E89A322710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BB943A-091B-495C-972E-01E89A322710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A273078-DE53-4D28-B8F2-A32A5A916841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A273078-DE53-4D28-B8F2-A32A5A916841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A273078-DE53-4D28-B8F2-A32A5A916841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A273078-DE53-4D28-B8F2-A32A5A916841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFA4A80-474A-4175-AE32-88A3CC0AD7D5}
+	EndGlobalSection
+EndGlobal
